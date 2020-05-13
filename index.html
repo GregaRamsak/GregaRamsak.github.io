@@ -29,20 +29,41 @@
 
     a {
       text-decoration: none;
+      border-radius: 5em;
+      background-color: rgba(255, 255, 255, 0.05);
+      display: inline-block;
+      padding: 0.7em 1.4em;
+      margin-bottom: 2em;
     }
+
+    a:hover {
+    background-color: rgba(255,255,255,0.08);
+}
 
     div {
       height: 100%;
       display: flex;
       justify-content: center;
       align-items: center;
+      flex-direction: column;
+    }
+
+    div span {
+      margin: 0.3em 0;
+      text-align: center;
     }
   </style>
 </head>
 
 <body>
   <div>
-    <a href="/tasktimetracker.html">Task Time Tracker</a>
+    <a href="/tasktimetracker.html">Start Task Time Tracker</a>
+
+    <span>Add and start tracking time spend on task.</span>
+    <span>This application uses local storage.<br/>If you delete cookies and locale storge all tasks will be permanently deleted.</span>
+    <span>Removing your task will permanently delete this task.</span>
+    <span>Double click on background to display time spend on all tasks.</span>
+
   </div>
 </body>
 
