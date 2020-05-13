@@ -29,6 +29,9 @@
 
     a {
       text-decoration: none;
+    }
+
+    a.btn {
       border-radius: 5em;
       background-color: rgba(255, 255, 255, 0.05);
       display: inline-block;
@@ -36,9 +39,9 @@
       margin-bottom: 2em;
     }
 
-    a:hover {
-    background-color: rgba(255,255,255,0.08);
-}
+    .btn:hover {
+      background-color: rgba(255, 255, 255, 0.08);
+    }
 
     div {
       height: 100%;
@@ -47,22 +50,14 @@
       align-items: center;
       flex-direction: column;
     }
-
-    div span {
-      margin: 0.3em 0;
-      text-align: center;
-    }
   </style>
 </head>
 
 <body>
   <div>
-    <a href="/tasktimetracker.html">Start Task Time Tracker</a>
+    <a class="btn" href="/tasktimetracker.html">Start Task Time Tracker</a>
 
-    <span>Add and start tracking time spend on task.</span>
-    <span>This application uses local storage.<br/>If you delete cookies and locale storge all tasks will be permanently deleted.</span>
-    <span>Removing your task will permanently delete this task.</span>
-    <span>Double click on background to display time spend on all tasks.</span>
+    <a href="https://github.com/GregaRamsak/GregaRamsak.github.io/blob/master/README.md">Instructions</a>
 
   </div>
 </body>
