@@ -9,13 +9,13 @@ Click on the text and enter new task name.
 Click outside the text field or press Enter to apply changes.
 
 ### Start tracking
-Click on the task body to start task tracking. When time tracking is enabled *⬤* will be displayed on the left side of the task body.
+Click on the task body to start task tracking. When time tracking is enabled **⬤** will be displayed on the left side of the task body.
 
 ### Stop tracking
 Click on the task body to stop task time tracking or click any other task.
 
 ### Removing a task
-Click on the *⨯* on the right side of the task body to permanently delete this task.
+Click on the **⨯** on the right side of the task body to permanently delete this task.
 
 ### Total time
 To display total time spend on tasks double click on background.
