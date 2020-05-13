@@ -1,12 +1,12 @@
 # GregaRamsak.github.io
 
-## Instrictions
+## Instructions
 
 ### Adding a task
 
 Click on *Add task* button.
 
-### Ranaming a task
+### Renaming a task
 
 Click on the text and enter new task name.
 Click outside the text field or press Enter to apply changes.
@@ -25,13 +25,13 @@ Click on the **⨯** on the right side of the task body to permanently delete th
 
 ### Total time
 
-To display total time spend on tasks double click on background.
+To display total time spent on tasks double click on background.
 Double click again to hide time.
 
 ## Notes
 
 This application uses local storage.
-If you delete cookies and locale storge all tasks will be permanently deleted.
+If you delete cookies and local storge all tasks will be permanently deleted.
 
 ## Desktop shortcut
 
