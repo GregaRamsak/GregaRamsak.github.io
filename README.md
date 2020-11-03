@@ -23,6 +23,21 @@ Click on the task body to stop task time tracking or click any other task.
 
 Click on the **⨯** on the right side of the task body to permanently delete this task.
 
+### Modify task time
+
+Hold Alt and click the time you want to modify. 
+
+Form components:
+- input field with number of minutes 
+- [+] increse time for number of minutes in input field 
+- [-] decrese time for number of minutes in input field
+- [⨯] close modify form
+
+
+### Reset time on all tasks
+
+Press Ctrl + Shift + E to reset time on all tasks.
+
 ### Total time
 
 To display total time spent on tasks double click on background.
