@@ -1,5 +1,7 @@
 # GregaRamsak.github.io
 
+Open [Task Time Tracker](https://gregaramsak.github.io/)
+
 ## Instructions
 
 ### Adding a task
